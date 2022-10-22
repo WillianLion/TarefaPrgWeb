@@ -1,0 +1,22 @@
+
+h1 {
+  text-align: left;  
+  color: blue;
+  width: 3;
+}
+
+
+pre{
+  font-family: arial;
+  size: 5;
+  color: pink;
+}
+
+figure{
+  text-align: left;
+}
+
+a{
+  color: purple;
+}
+

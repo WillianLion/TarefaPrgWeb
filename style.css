@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;  
+  color: black;
+  width: 3;
+}
+
+p1{
+  font-family: arial;
+  size: 3;
+  color: blue;
+}
+
+p2{
+  font-family: arial black;
+  size: 3;
+  color: green;
+}
+
+p3{
+  font-family: arial;
+  size: 3;
+  color: orange;
+}
+
+p4{
+  font-family: arial;
+  size: 3;
+  color: red;
+}
+
+pre{
+  font-family: arial;
+  size: 5;
+  color: pink;
+}
